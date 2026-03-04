@@ -15,7 +15,7 @@ Backend API developed to manage warranty items, allowing users to register produ
 - PostgreSQL
 - pg (node-postgres)
 
-  Ferramentas | Tools
+⚙️ Ferramentas | Tools
 
 - Nodemon
 - Git
@@ -23,14 +23,14 @@ Backend API developed to manage warranty items, allowing users to register produ
 
 📄 Descrição | Description
 
-PT-BR
+🇧🇷 PT-BR
 
 Este projeto consiste em uma API backend desenvolvida com Node.js e PostgreSQL para registrar e gerenciar itens com garantia.
 A aplicação permite armazenar informações como nome do produto, categoria, data de compra, data de vencimento da garantia e observações.
 
 O projeto também foi estruturado utilizando boas práticas de organização de código, separando rotas, controladores e conexão com banco de dados.
 
-EN
+🇺🇸 EN
 
 This project consists of a backend API built with Node.js and PostgreSQL to register and manage warranty items.
 The application stores information such as product name, category, purchase date, warranty expiration date and additional notes.
@@ -39,7 +39,7 @@ The project also follows a structured architecture separating routes, controller
 
 🎯 Objetivo do projeto | Project Goal
 
-PT-BR
+🇧🇷 PT-BR
 
 Este projeto foi criado com o objetivo de praticar conceitos importantes de desenvolvimento backend, como:
 
@@ -49,7 +49,7 @@ Este projeto foi criado com o objetivo de praticar conceitos importantes de dese
 - uso de variáveis de ambiente
 - versionamento com Git e GitHub
 
-EN
+🇺🇸 EN
 
 This project was created to practice important backend development concepts such as:
 
