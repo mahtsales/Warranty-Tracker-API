@@ -7,23 +7,18 @@ Backend API developed to manage warranty items, allowing users to register produ
 🛠 Tecnologias utilizadas | Technologies Used
 
 - Backend
-
 - Node.js
-
 - Express.js
 
   Banco de dados | Database
 
 - PostgreSQL
-
 - pg (node-postgres)
 
   Ferramentas | Tools
 
 - Nodemon
-
 - Git
-
 - GitHub
 
 📄 Descrição | Description
@@ -49,13 +44,9 @@ PT-BR
 Este projeto foi criado com o objetivo de praticar conceitos importantes de desenvolvimento backend, como:
 
 - criação de APIs REST
-
 - integração com banco de dados
-
 - organização de estrutura de projeto
-
 - uso de variáveis de ambiente
-
 - versionamento com Git e GitHub
 
 EN
@@ -63,13 +54,9 @@ EN
 This project was created to practice important backend development concepts such as:
 
 - REST API development
-
 - database integration
-
 - project architecture
-
 - environment variables
-
 - version control with Git and GitHub
 
 👨‍💻 Autor | Author
